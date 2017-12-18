@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "foo",
+    "URL": "foo",
+    "IconURL": "foo"
+  },
+  {
+    "Name": "bar",
+    "URL": "bar",
+    "IconURL": "bar"
+  },
+  {
+    "Name": "firefox",
+    "URL": "firefox",
+    "IconURL": "firefox"
+  },
+  {
+    "Name": "chrome",
+    "URL": "chrome",
+    "IconURL": "chrome"
+  },
+  {
+    "Name": "",
+    "URL": "",
+    "IconURL": ""
+  }
+]
