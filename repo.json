@@ -3,7 +3,7 @@
     "Name": "Mozilla Firefox",
     "URL": "https://ftp.mozilla.org/pub/firefox/releases/57.0/win64/en-US/Firefox%20Setup%2057.0.exe",
     "IconURL": "https://www.mozilla.org/media/img/firefox/favicon-196.c6d9abffb769.png",
-    "Description": "testing repo",
+    "Description": "Mozilla Firefox is a free and open-source web browser.",
     "SilentArgument": "-ms",
     "Category": "Internet & Network"
   },
@@ -11,7 +11,7 @@
     "Name": "Discord",
     "URL": "https://dl.discordapp.net/apps/win/0.0.299/DiscordSetup.exe",
     "IconURL": "https://vignette.wikia.nocookie.net/sims/images/f/f7/Discord_logo1600.png/revision/latest?cb=20170924042516",
-    "Description": "testing repox",
+    "Description": "Discord is a proprietary freeware VoIP application designed for gaming communities.",
     "SilentArgument": "",
     "Category": "Internet & Network"
   },
@@ -19,8 +19,16 @@
     "Name": "VLC Media Player",
     "URL": "https://get.videolan.org/vlc/2.2.8/win32/vlc-2.2.8-win32.exe",
     "IconURL": "https://lh3.ggpht.com/8BDSUv0P-kr9Kik7weOSet4Au_BlBpM0SmM8dUDdYQOceErGCLroJlhVoSL7cPP14YE=w300",
-    "Description": "testing repoxx",
+    "Description": "VLC Media Player is free and open-source media player developed by the VideoLAN project.",
     "SilentArgument": "/S",
     "Category": "Audio & Video"
+  },
+  {
+    "Name": "Visual Studio Code",
+    "URL": "https://az764295.vo.msecnd.net/stable/0759f77bb8d86658bc935a10a64f6182c5a1eeba/VSCodeSetup-x64-1.19.1.exe",
+    "IconURL": "https://user-images.githubusercontent.com/49339/32078127-102bbcfe-baa6-11e7-8ab9-b04dcad2035e.png",
+    "Description": "Visual Studio Code is a source code editor developed by Microsoft for Windows, Linux and macOS.",
+    "SilentArgument": "/VERYSILENT /MERGETASKS=!runcode",
+    "Category": "Development"
   }
 ]
