@@ -5,15 +5,8 @@
     "IconURL": "https://www.mozilla.org/media/img/firefox/favicon-196.c6d9abffb769.png",
     "Description": "Mozilla Firefox is a free and open-source web browser.",
     "SilentArgument": "-ms",
-    "Category": "Internet & Network"
-  },
-  {
-    "Name": "Discord",
-    "URL": "https://dl.discordapp.net/apps/win/0.0.299/DiscordSetup.exe",
-    "IconURL": "https://vignette.wikia.nocookie.net/sims/images/f/f7/Discord_logo1600.png/revision/latest?cb=20170924042516",
-    "Description": "Discord is a proprietary freeware VoIP application designed for gaming communities.",
-    "SilentArgument": "",
-    "Category": "Internet & Network"
+    "Category": "Internet & Network",
+    "Version": "57.0"
   },
   {
     "Name": "VLC Media Player",
@@ -21,7 +14,17 @@
     "IconURL": "https://lh3.ggpht.com/8BDSUv0P-kr9Kik7weOSet4Au_BlBpM0SmM8dUDdYQOceErGCLroJlhVoSL7cPP14YE=w300",
     "Description": "VLC Media Player is free and open-source media player developed by the VideoLAN project.",
     "SilentArgument": "/S",
-    "Category": "Audio & Video"
+    "Category": "Audio & Video",
+    "Version": "2.2.8"
+  },
+  {
+    "Name": "Discord",
+    "URL": "https://dl.discordapp.net/apps/win/0.0.299/DiscordSetup.exe",
+    "IconURL": "https://vignette.wikia.nocookie.net/sims/images/f/f7/Discord_logo1600.png/revision/latest?cb=20170924042516",
+    "Description": "Discord is a proprietary freeware VoIP application designed for gaming communities.",
+    "SilentArgument": "",
+    "Category": "Internet & Network",
+    "Version": ""
   },
   {
     "Name": "Visual Studio Code",
@@ -29,6 +32,7 @@
     "IconURL": "https://user-images.githubusercontent.com/49339/32078127-102bbcfe-baa6-11e7-8ab9-b04dcad2035e.png",
     "Description": "Visual Studio Code is a source code editor developed by Microsoft for Windows, Linux and macOS.",
     "SilentArgument": "/VERYSILENT /MERGETASKS=!runcode",
-    "Category": "Development"
+    "Category": "Development",
+    "Version": "1,19,1"
   }
 ]
