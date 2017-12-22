@@ -38,7 +38,7 @@
   {
     "Name": "CPU-Z",
     "URL": "http://www.cpuid.com/downloads/cpu-z/cpu-z_1.82-en.exe",
-    "IconURL": "https://www.cpuid.com/medias/images/softwares/cpu-z.svg",
+    "IconURL": "https://www.cpuid.com/medias/images/softwares/cpu-z.png",
     "Description": "CPU-Z is a freeware system profiling and monitoring application for Microsoft Windows and Android that detects the central processing unit, RAM, motherboard chipset, and other hardware features of a modern personal computer, and Android smart phone, and presents the information in one window (in PC version), or by opening the application (in its Android version).",
     "SilentArgument": "/SILENT",
     "Category": "Tools",
@@ -47,7 +47,7 @@
   {
     "Name": "Rufus",
     "URL": "https://rufus.akeo.ie/downloads/rufus-2.18.exe",
-    "IconURL": "https://d2.alternativeto.net/dist/icons/rufus_72836.png",
+    "IconURL": "https://d2.alternativeto.net/dist/icons/rufus_72836.png?width=200&height=200&mode=crop&upscale=false",
     "Description": "Rufus is a free and open-source portable application for Microsoft Windows that can be used to format and create bootable USB flash drives or Live USBs. It is developed by Pete Batard of Akeo Consulting.",
     "SilentArgument": "",
     "Category": "Tools",
