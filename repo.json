@@ -5,7 +5,7 @@
     "IconURL": "https://www.mozilla.org/media/img/firefox/favicon-196.c6d9abffb769.png",
     "Description": "Mozilla Firefox is a free and open-source web browser.",
     "SilentArgument": "-ms",
-    "Category": "Internet & Network",
+    "Category": "Audio & Video",
     "Version": "57.0"
   },
   {
@@ -14,8 +14,44 @@
     "IconURL": "https://lh3.ggpht.com/8BDSUv0P-kr9Kik7weOSet4Au_BlBpM0SmM8dUDdYQOceErGCLroJlhVoSL7cPP14YE=w300",
     "Description": "VLC Media Player is free and open-source media player developed by the VideoLAN project.",
     "SilentArgument": "/S",
-    "Category": "Audio & Video",
+    "Category": "Internet & Network",
     "Version": "2.2.8"
+  },
+  {
+    "Name": "Visual Studio Code",
+    "URL": "https://az764295.vo.msecnd.net/stable/0759f77bb8d86658bc935a10a64f6182c5a1eeba/VSCodeSetup-x64-1.19.1.exe",
+    "IconURL": "https://user-images.githubusercontent.com/49339/32078127-102bbcfe-baa6-11e7-8ab9-b04dcad2035e.png",
+    "Description": "Visual Studio Code is a source code editor developed by Microsoft for Windows, Linux and macOS.",
+    "SilentArgument": "/VERYSILENT /MERGETASKS=!runcode",
+    "Category": "Development",
+    "Version": "1.19.1"
+  },
+  {
+    "Name": "GIMP",
+    "URL": "https://download.gimp.org/mirror/pub/gimp/v2.8/windows/gimp-2.8.22-setup.exe",
+    "IconURL": "https://www.gimp.org/images/frontpage/wilber-big.png",
+    "Description": "GIMP is a cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems. It is free software, you can change its source code and distribute your changes.",
+    "SilentArgument": "/SILENT /NORESTART ",
+    "Category": "Graphics",
+    "Version": "2.8.22"
+  },
+  {
+    "Name": "CPU-Z",
+    "URL": "http://www.cpuid.com/downloads/cpu-z/cpu-z_1.82-en.exe",
+    "IconURL": "https://www.cpuid.com/medias/images/softwares/cpu-z.svg",
+    "Description": "CPU-Z is a freeware system profiling and monitoring application for Microsoft Windows and Android that detects the central processing unit, RAM, motherboard chipset, and other hardware features of a modern personal computer, and Android smart phone, and presents the information in one window (in PC version), or by opening the application (in its Android version).",
+    "SilentArgument": "/SILENT",
+    "Category": "Tools",
+    "Version": "1.82"
+  },
+  {
+    "Name": "Rufus",
+    "URL": "https://rufus.akeo.ie/downloads/rufus-2.18.exe",
+    "IconURL": "https://d2.alternativeto.net/dist/icons/rufus_72836.png",
+    "Description": "Rufus is a free and open-source portable application for Microsoft Windows that can be used to format and create bootable USB flash drives or Live USBs. It is developed by Pete Batard of Akeo Consulting.",
+    "SilentArgument": "",
+    "Category": "Tools",
+    "Version": "2.18"
   },
   {
     "Name": "Discord",
@@ -25,14 +61,5 @@
     "SilentArgument": "",
     "Category": "Internet & Network",
     "Version": ""
-  },
-  {
-    "Name": "Visual Studio Code",
-    "URL": "https://az764295.vo.msecnd.net/stable/0759f77bb8d86658bc935a10a64f6182c5a1eeba/VSCodeSetup-x64-1.19.1.exe",
-    "IconURL": "https://user-images.githubusercontent.com/49339/32078127-102bbcfe-baa6-11e7-8ab9-b04dcad2035e.png",
-    "Description": "Visual Studio Code is a source code editor developed by Microsoft for Windows, Linux and macOS.",
-    "SilentArgument": "/VERYSILENT /MERGETASKS=!runcode",
-    "Category": "Development",
-    "Version": "1,19,1"
   }
 ]
