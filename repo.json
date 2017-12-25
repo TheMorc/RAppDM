@@ -79,5 +79,14 @@
     "SilentArgument": "/S",
     "Category": "Tools",
     "Version": "17.01 beta"
+  },
+  {
+    "Name": "Lazarus",
+    "URL": "http://sourceforge.net/projects/lazarus/files/Lazarus%20Windows%2032%20bits/Lazarus%201.8.0/lazarus-1.8.0-fpc-3.0.4-win32.exe/download",
+    "IconURL": "http://wiki.freepascal.org/images/f/fd/Lazarus-icons-lpr-proposal-bpsoftware.png",
+    "Description": "Lazarus is a free cross-platform visual integrated development environment (IDE) for rapid application development using the Free Pascal compiler.",
+    "SilentArgument": "/silent",
+    "Category": "Development",
+    "Version": "1.8.0"
   }
 ]
