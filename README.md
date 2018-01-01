@@ -1,4 +1,5 @@
-<h1 align="center">RAppDM</h1>
+![Banner](banner.png)
+
 RAppDM is a .NET Framework 3.5 based application manager written in C# programming language. It's a bit inspired by the ReactOS Applications Manager.
 RAppDM downloads his repo(here on this repo for RAppDM) and then shows categories in which apps can be found.
 
